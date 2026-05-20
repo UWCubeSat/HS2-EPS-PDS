@@ -3932,7 +3932,7 @@
 			)
 		)
 	)
-	(global_label "RS-485 SYS1 B"
+	(global_label "RS-485 SYS1 A"
 		(shape input)
 		(at 182.88 82.55 0)
 		(fields_autoplaced yes)
@@ -3944,7 +3944,7 @@
 		)
 		(uuid "fa45a621-66df-4950-9db7-7287d66ef697")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.4679 82.55 0)
+			(at 201.2865 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
